@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently working on:<br>Building responsive and interactive web applications with modern frontend technologies.<br><br>I'm looking to collaborate on:<br>Creative web projects, UI/UX design improvements, and frontend performance optimization.<br><br>I'm looking for help with:<br>Integrating complex APIs and improving cross-browser compatibility.<br><br>I'm currently learning:<br>Advanced JavaScript frameworks like React, Vue.js, or Svelte, and exploring web animations.<br><br>Ask me about:<br>HTML, CSS, JavaScript, responsive design, and frontend frameworks.<br><br>Fun fact:<br>I love turning creative design ideas into smooth and engaging user experiences!
+<strong>Currently Working On:</strong> Building responsive, interactive web apps with modern frontend tech.<br><br>
+<strong>Looking to Collaborate On:</strong> Creative web projects, UI/UX design, and performance optimization.<br><br>
+<strong>Need Help With:</strong> API integration and cross-browser compatibility.<br><br>
+<strong>Currently Learning:</strong> React, Vue.js, Svelte, and web animations.<br><br>
+<strong>Ask Me About:</strong> HTML, CSS, JavaScript, responsive design, and frontend frameworks.<br><br>
+<strong>Fun Fact:</strong> I love transforming creative ideas into smooth, engaging user experiences!
 
 
 ## 🌐 Socials:
